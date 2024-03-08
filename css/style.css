@@ -35,6 +35,11 @@
   width: 250px;
   float: right;
 }
+.right-image {
+  height: auto;
+  width: 250px
+  float: right;
+}
 
 body {
   background-color: rgb(62, 255, 66);
