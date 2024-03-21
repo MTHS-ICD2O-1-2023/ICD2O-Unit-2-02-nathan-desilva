@@ -8,5 +8,5 @@
  */
 function doMathClicked() {
     document.getElementById("multiply-math").innerHTML = "<p>The Area is: = " + (5 * 3) + "</p>" 
-  document.getElementById("add-math").innerHTML = "<p>The Perimeter is: = " + (2 * 5 + 3) + "</p>"
+  document.getElementById("multiply-math").innerHTML = "<p>The Perimeter is: = " + (2 * 5 + 3) + "</p>"
 }
